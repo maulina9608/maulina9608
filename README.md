@@ -42,7 +42,7 @@ I'm a **Data Analyst & Data Scientist** passionate about transforming data into 
 
 ## 🌐 Connect with Me
 
-**LinkedIn:** <PRIVATE_URL>  
+**LinkedIn:** https://www.linkedin.com/in/maulina-aenul-hidayah-a36433222/
 **Email:** maulina6830@gmail.com
 ## 🎓 Education
 
