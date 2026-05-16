@@ -87,13 +87,6 @@ I'm a curious and analytically driven **Data Analyst & Data Scientist** who is p
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Maulina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true)
-
 </div>
 
 ---
