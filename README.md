@@ -102,6 +102,4 @@ I'm a curious and analytically driven **Data Analyst & Data Scientist** who is p
 
 *"Data is not just numbers — it's stories waiting to be told."* 🌸
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
-
 </div>
