@@ -4,6 +4,9 @@
 ### Data Analyst & Data Scientist
 
 *Curious. Analytical. Impact-driven.*
+
+</div>
+
 ---
 
 ## 👩‍💻 About Me
@@ -11,16 +14,13 @@
 I'm a curious and analytically driven **Data Analyst & Data Scientist** who is passionate about problem-solving and uncovering meaningful insights through rigorous data analysis. Trained at **Hacktiv8**, I've built hands-on experience across a wide range of programming tools and AI technologies — blending technical expertise with a genuine drive to transform complex data into clear, actionable decisions.
 
 - 🚀 **Fast learner** — especially when it comes to picking up new tools and languages
-- 🔬 **Currently** working on personal projects
+- 🔬 **Currently** working on personal projects, with a focus on health-related data analysis
 - 🧩 **Strong suit** — deep problem-solving, discipline, and process-oriented thinking
 - 🌿 **Passionate about** health data, behavioral patterns, and research-driven analysis
 - 🔍 **Open to opportunities** in:
-  - Machine Learning Analyst
-  - Applied AI Analyst
-  - Product Data Analyst
-  - Decision Scientist
-  - AI/Data Research Analyst
-  - Forecasting Analyst
+  - Behavioral / Product Data Analyst
+  - Time Series / Forecasting Analyst
+  - Exploratory / Research-Oriented Analyst
 
 ---
 
