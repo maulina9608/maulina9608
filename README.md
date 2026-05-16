@@ -29,32 +29,21 @@ I'm a **Data Analyst & Data Scientist** passionate about transforming data into 
 
 ## 🛠️ Skills
 
-### 🐍 Programming
-Python • SQL
-
-### 📊 Data Analysis & Visualization
-Pandas • NumPy • Matplotlib • Seaborn • Tableau • Power BI • Kibana
-
-### 🤖 Machine Learning & AI
-Scikit-learn • TensorFlow • NLP • Computer Vision • Time Series Forecasting
-
-**Techniques:**  
-Regression • Classification • Clustering • Ensemble Learning • Dimensionality Reduction
-
-### 🧰 Frameworks & Libraries
-Streamlit • SciPy • Feature-Engine
-
-### 🗄️ Database & Big Data
-PostgreSQL • Elasticsearch • Apache Hadoop
-
-### ⚙️ Deployment & MLOps
-Docker • Hugging Face Spaces
-
-### 🔧 Other Skills
-ETL Development • Feature Engineering • Data Wrangling • Cloud ETL Pipelines • A/B Testing
+**Programming:** Python, SQL  
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Tableau, Power BI, Kibana  
+**Machine Learning & AI:** Scikit-learn, TensorFlow, NLP, Computer Vision, Time Series Forecasting  
+**ML Techniques:** Regression, Classification, Clustering, Ensemble Learning, Dimensionality Reduction  
+**Frameworks & Libraries:** Streamlit, SciPy, Seaborn, Feature-Engine  
+**Database & Big Data:** PostgreSQL, Elasticsearch, Apache Hadoop  
+**Deployment & MLOps:** Docker, Hugging Face Spaces  
+**Other Skills:** ETL Development, Feature Engineering, Data Wrangling, Cloud ETL Pipelines  
 
 ---
 
+## 🌐 Connect with Me
+
+**LinkedIn:** <PRIVATE_URL>  
+**Email:** maulina6830@gmail.com
 ## 🎓 Education
 
 ### 📌 Hacktiv8 — Data Science Bootcamp
