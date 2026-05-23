@@ -36,7 +36,7 @@ I'm a **Data Analyst & Data Scientist** passionate about transforming data into 
 **Frameworks & Libraries:** Streamlit, SciPy, Seaborn, Feature-Engine  
 **Database & Big Data:** PostgreSQL, Elasticsearch, Apache Hadoop  
 **Deployment & MLOps:** Docker, Hugging Face Spaces  
-**Other Skills:** ETL Development, Feature Engineering, Data Wrangling, Cloud ETL Pipelines  
+**Other Skills:** Web Scraping, ETL Development, Feature Engineering, Data Wrangling, Cloud ETL Pipelines  
 
 ---
 
