@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Maulina Aenul Hidayah 👋
+# Hi, I'm Maulina 👋
 ### Data Analyst & Data Scientist
 
 *Curious • Analytical • Impact-Driven*
